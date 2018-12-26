@@ -18,7 +18,11 @@
   },
   "homepage": "https://github.com/ElQuinto1998/pruebaSpeedWay#readme",
   "dependencies": {
-    "express": "^4.16.4"
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.1",
+    "morgan": "^1.9.1"
   },
   "devDependencies": {
     "nodemon": "^1.18.9"
