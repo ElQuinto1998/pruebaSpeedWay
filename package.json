@@ -1,0 +1,26 @@
+{
+  "name": "pruebaSpeedWay",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon backend/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElQuinto1998/pruebaSpeedWay.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ElQuinto1998/pruebaSpeedWay/issues"
+  },
+  "homepage": "https://github.com/ElQuinto1998/pruebaSpeedWay#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
